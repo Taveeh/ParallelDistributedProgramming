@@ -1,0 +1,31 @@
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.exe
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.deps.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.runtimeconfig.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.runtimeconfig.dev.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\bin\Debug\netcoreapp3.1\MPI.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csprojAssemblyReference.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.AssemblyInfoInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.AssemblyInfo.cs
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csproj.CoreCompileInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csproj.CopyComplete
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.genruntimeconfig.cache
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.exe
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.deps.json
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.runtimeconfig.json
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.runtimeconfig.dev.json
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.dll
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\Lab8-NET.pdb
+C:\Users\ocustura\Desktop\Lab8-NET\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csproj.AssemblyReference.cache
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.AssemblyInfoInputs.cache
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.AssemblyInfo.cs
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csproj.CoreCompileInputs.cache
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.csproj.CopyComplete
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.dll
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.pdb
+C:\Users\ocustura\Desktop\Lab8-NET\obj\Debug\netcoreapp3.1\Lab8-NET.genruntimeconfig.cache

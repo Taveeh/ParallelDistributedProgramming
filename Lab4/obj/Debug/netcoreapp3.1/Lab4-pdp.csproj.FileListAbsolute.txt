@@ -1,0 +1,27 @@
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.csprojAssemblyReference.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.AssemblyInfoInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.AssemblyInfo.cs
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.csproj.CoreCompileInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.exe
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.deps.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.runtimeconfig.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.runtimeconfig.dev.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\bin\Debug\netcoreapp3.1\Lab4-pdp.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab4-pdp\obj\Debug\netcoreapp3.1\Lab4-pdp.genruntimeconfig.cache
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.exe
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.deps.json
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.runtimeconfig.json
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.runtimeconfig.dev.json
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.dll
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\bin\Debug\netcoreapp3.1\Lab4-pdp.pdb
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.csproj.AssemblyReference.cache
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.AssemblyInfoInputs.cache
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.AssemblyInfo.cs
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.csproj.CoreCompileInputs.cache
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.dll
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.pdb
+C:\Users\ocustura\Desktop\Docs\Uni\PPD\Lab4\obj\Debug\netcoreapp3.1\Lab4-pdp.genruntimeconfig.cache

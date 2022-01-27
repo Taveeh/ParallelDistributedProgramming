@@ -1,0 +1,43 @@
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.exe
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.deps.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.runtimeconfig.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.runtimeconfig.dev.json
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\bin\Debug\netcoreapp3.1\MPI.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csprojAssemblyReference.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.AssemblyInfoInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.AssemblyInfo.cs
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csproj.CoreCompileInputs.cache
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csproj.CopyComplete
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.dll
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.pdb
+D:\`Facultate\FMI\Sem V\PDP\Labs\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.genruntimeconfig.cache
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.exe
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.deps.json
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.runtimeconfig.json
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.runtimeconfig.dev.json
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Lab7-NET.pdb
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csproj.AssemblyReference.cache
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.AssemblyInfoInputs.cache
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.AssemblyInfo.cs
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csproj.CoreCompileInputs.cache
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.csproj.CopyComplete
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.dll
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.pdb
+C:\Users\ocustura\Desktop\Lab7-NET\obj\Debug\netcoreapp3.1\Lab7-NET.genruntimeconfig.cache
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\BrokerBase.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\CcpApi.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\HpcCommon.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Azure.DataMovement.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Azure.FileStaging.Client.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Diagnostics.Helpers.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Excel.Internal.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Excel.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Scheduler.Properties.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Scheduler.Session.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Scheduler.Store.dll
+C:\Users\ocustura\Desktop\Lab7-NET\bin\Debug\netcoreapp3.1\Microsoft.Hpc.Scheduler.dll

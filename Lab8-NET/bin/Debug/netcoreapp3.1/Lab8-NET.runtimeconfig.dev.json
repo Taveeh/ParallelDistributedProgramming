@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ocustura\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ocustura\\.nuget\\packages"
+    ]
+  }
+}
